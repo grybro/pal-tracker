@@ -5,3 +5,5 @@ applications:
   host: gd-pal-tracker
   services:
   - tracker-database
+
+
